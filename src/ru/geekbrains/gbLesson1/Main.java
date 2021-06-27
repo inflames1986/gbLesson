@@ -12,7 +12,7 @@ public class Main {
 //          printMessage(0); // задание 5
 //          System.out.println(isPositive(-155)); //задание 6
 //          helloNick("Василий"); // задание 7
-            isLeapYear(1281); // задание 8
+//          isLeapYear(1281); // задание 8
 
 
     }
