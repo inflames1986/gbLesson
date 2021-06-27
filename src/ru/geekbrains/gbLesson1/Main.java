@@ -53,16 +53,13 @@ public class Main {
     public static void printMessage(int a) { // задание 5 положительное число или нет
 
         if (a >= 0) {
-
             System.out.println("Число a " + a  + "положительное");
         }
-
             else {
 
             System.out.println("Число a " + a  + "отрицательное");
 
         }
-
 
     }
 
@@ -87,7 +84,6 @@ public class Main {
         else {
 
             System.out.println("Год " + year + " - не високосный");
-
 
         }
     }
